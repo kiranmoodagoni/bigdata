@@ -1,2 +1,2 @@
 1.what is python?
-ccccccccccccccc
+python is a high level language
